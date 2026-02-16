@@ -1,0 +1,7 @@
+{
+  "CurrentProvider": "huggingface",
+  "Models": {
+    "ollama": "llama3.2:3b",
+    "huggingface": "mistralai/Mistral-7B-Instruct-v0.2"
+  }
+}
